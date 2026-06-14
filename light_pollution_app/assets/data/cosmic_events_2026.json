@@ -1,0 +1,92 @@
+[
+  {
+    "id": "eclipse-2026-02-17",
+    "title_ar": "كسوف شمسي حلقي",
+    "title_en": "Annular Solar Eclipse",
+    "description_ar": "كسوف شمسي حلقي يظهر جزئياً في شبه الجزيرة العربية. الذروة حوالي 12:50 ظهراً بتوقيت السعودية.",
+    "description_en": "An annular solar eclipse partially visible from the Arabian Peninsula. Peak around 12:50 PM Saudi time.",
+    "date": "2026-02-17T09:50:00Z",
+    "type": "eclipse"
+  },
+  {
+    "id": "eclipse-2026-08-12",
+    "title_ar": "كسوف شمسي كلي",
+    "title_en": "Total Solar Eclipse",
+    "description_ar": "كسوف شمسي كلي - مرئي جزئياً من شبه الجزيرة العربية بنسبة 30%. يبدأ قبيل الغروب.",
+    "description_en": "Total solar eclipse — partially visible from the Arabian Peninsula at ~30%. Begins shortly before sunset.",
+    "date": "2026-08-12T17:45:00Z",
+    "type": "eclipse"
+  },
+  {
+    "id": "lunar-eclipse-2026-03-03",
+    "title_ar": "خسوف قمري كلي",
+    "title_en": "Total Lunar Eclipse",
+    "description_ar": "خسوف قمري كلي - مرئي من المملكة العربية السعودية. يبدأ الساعة 11:50 مساءً.",
+    "description_en": "Total lunar eclipse — visible from Saudi Arabia. Starts at 11:50 PM local time.",
+    "date": "2026-03-03T20:50:00Z",
+    "type": "lunarEclipse"
+  },
+  {
+    "id": "meteor-lyrids-2026",
+    "title_ar": "زخة شهب القيثاريات (Lyrids)",
+    "title_en": "Lyrid Meteor Shower",
+    "description_ar": "ذروة زخة شهب القيثاريات. معدل 15-20 شهاب في الساعة. الأفضل بعد منتصف الليل.",
+    "description_en": "Peak of the Lyrid meteor shower. 15-20 meteors per hour, best viewed after midnight.",
+    "date": "2026-04-22T03:00:00Z",
+    "type": "meteorShower"
+  },
+  {
+    "id": "meteor-perseids-2026",
+    "title_ar": "زخة شهب البرشاويات (Perseids)",
+    "title_en": "Perseid Meteor Shower",
+    "description_ar": "أشهر زخة شهب في السنة. معدل 60-100 شهاب في الساعة. الأفضل رصدها في سماء مظلمة.",
+    "description_en": "The most famous meteor shower of the year. 60-100 meteors per hour. Best viewed under dark skies.",
+    "date": "2026-08-12T22:00:00Z",
+    "type": "meteorShower"
+  },
+  {
+    "id": "meteor-geminids-2026",
+    "title_ar": "زخة شهب التوأميات (Geminids)",
+    "title_en": "Geminid Meteor Shower",
+    "description_ar": "أغزر زخة شهب في العام. معدل يصل إلى 120 شهاب في الساعة. ظروف مثالية للرصد.",
+    "description_en": "The most prolific meteor shower of the year — up to 120 meteors per hour. Ideal viewing conditions.",
+    "date": "2026-12-14T02:00:00Z",
+    "type": "meteorShower"
+  },
+  {
+    "id": "meteor-orionids-2026",
+    "title_ar": "زخة شهب الجباريات (Orionids)",
+    "title_en": "Orionid Meteor Shower",
+    "description_ar": "ذروة زخة شهب الجباريات من مذنب هالي. معدل 20 شهاب في الساعة.",
+    "description_en": "Peak of the Orionid meteor shower, from debris of Halley's Comet. 20 meteors per hour.",
+    "date": "2026-10-21T03:00:00Z",
+    "type": "meteorShower"
+  },
+  {
+    "id": "supermoon-2026-11-24",
+    "title_ar": "قمر عملاق",
+    "title_en": "Supermoon",
+    "description_ar": "بدر قمر عملاق - أقرب نقطة للقمر من الأرض هذا العام. أكبر وأسطع بدر في 2026.",
+    "description_en": "Supermoon full moon — closest approach to Earth this year. The largest and brightest full moon of 2026.",
+    "date": "2026-11-24T18:00:00Z",
+    "type": "supermoon"
+  },
+  {
+    "id": "conjunction-venus-jupiter-2026-06-15",
+    "title_ar": "اقتران الزهرة والمشتري",
+    "title_en": "Venus–Jupiter Conjunction",
+    "description_ar": "اقتران قريب جداً بين كوكبي الزهرة والمشتري - مرئي بالعين المجردة بعد الغروب مباشرة.",
+    "description_en": "A very close conjunction of Venus and Jupiter — visible to the naked eye right after sunset.",
+    "date": "2026-06-15T17:30:00Z",
+    "type": "planetConjunction"
+  },
+  {
+    "id": "eclipse-2027-02-06",
+    "title_ar": "كسوف شمسي حلقي",
+    "title_en": "Annular Solar Eclipse",
+    "description_ar": "كسوف شمسي حلقي مرئي من جنوب المملكة العربية السعودية.",
+    "description_en": "An annular solar eclipse visible from southern Saudi Arabia.",
+    "date": "2027-02-06T13:00:00Z",
+    "type": "eclipse"
+  }
+]

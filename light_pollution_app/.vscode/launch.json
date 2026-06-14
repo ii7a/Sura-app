@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Sura App (iPhone Simulator)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "883926D1-C173-4A6C-AB20-E7C4C312D7B4",
+      "flutterMode": "debug"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Training datasets (too large for GitHub)
+ml_training/dataset/
+ml_training/model/
+light_pollution_app/training/dataset/
+
+# Build artifacts
+light_pollution_app/build/
+light_pollution_app/.dart_tool/
+light_pollution_app/ios/Pods/

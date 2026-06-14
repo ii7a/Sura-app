@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "160611783981",
+    "project_id": "sura-71d43",
+    "storage_bucket": "sura-71d43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160611783981:android:41d2c9c4df5e1aa9ffafa4",
+        "android_client_info": {
+          "package_name": "sura.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160611783981-qcudsahagdes7crl78j8bv1ioli812h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJUHMRqycDZtXwcdIIuUzGCFS_p0CP48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160611783981-qcudsahagdes7crl78j8bv1ioli812h1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160611783981-r6kq6mehgajt5jh8hg0ectumoojorjpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "SuraApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
