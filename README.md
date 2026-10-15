@@ -119,7 +119,7 @@ This was a six-member team project. My main contributions were:
 ├── ml_training/
 │   ├── SuraApp_Training.ipynb  Final model training and evaluation
 │   └── scripts/                Earlier data collection scripts
-├── docs/                     Charts and design files
+├── docs/                     Charts and app screenshots
 └── SURA_Design_Spec.md       UI/UX design specification
 ```
 
