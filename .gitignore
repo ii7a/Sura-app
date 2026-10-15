@@ -7,3 +7,7 @@ light_pollution_app/training/dataset/
 light_pollution_app/build/
 light_pollution_app/.dart_tool/
 light_pollution_app/ios/Pods/
+
+
+# macOS system files
+.DS_Store
