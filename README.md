@@ -1,6 +1,6 @@
 # SURA (سُرى): Light Pollution Classification App
 
-**🏆 1st Place, Graduation Project Defense, Department of Computer Science, Jazan University (2026)**
+**🏆 1st Place, Graduation Projects Exhibition, Department of Computer Science, Jazan University (2026)**
 
 A bilingual (Arabic/English) Flutter mobile app that lets users photograph the night sky and get an instant estimate of its light-pollution level. The estimate comes from an on-device EfficientNetB0 model trained on a custom dataset of 757 night-sky images labeled by the Bortle scale.
 
